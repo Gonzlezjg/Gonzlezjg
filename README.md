@@ -5,9 +5,10 @@
 
 ````js
 const JoseGonzalez = {
-  code: [JavaScript, CSS , HTML]
-  tools: [React, Nodejs]
-  study: [TSU Sistemas Informaticos 2/3🎓]
+  code: [JavaScript, CSS , HTML],
+  tools: [React, Nodejs, EXPRESS, MUI, SASS, WEB3, ETHERSJS ],
+  study: [TSU Sistemas Informaticos 3/3🎓],
+  learning: [GOLANG]
 }
 ````
 
