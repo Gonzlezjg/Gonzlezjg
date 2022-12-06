@@ -5,8 +5,8 @@
 
 ````js
 const JoseGonzalez = {
-  code: [JavaScript, CSS , HTML],
-  tools: [React, Nodejs, EXPRESS, MUI, SASS, WEB3, ETHERSJS ],
+  code: [JavaScript, CSS , HTML, Typescript],
+  tools: [React, Nodejs, Tailwind, Mysql, MongoDB, TypeORM, EXPRESS, MUI, SASS, WEB3, ETHERSJS ],
   study: [TSU Sistemas Informaticos 3/3🎓],
   learning: [GOLANG]
 }
