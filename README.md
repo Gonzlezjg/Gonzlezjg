@@ -1,7 +1,7 @@
 <h1>Bienvenidos a mi repositorio personal  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 # 💫 About Me:
-🔭 Actualmente me enfoco en el desarrollo Backend, con extra de conocimientos en Frontend<br>👯 Me gusta colaborar en proyectos Open Source<br>🌱 Estoy afianzando mis conocimientos en Java, SpringBoot y microservicios<br>⚡ Ademas de la programación, me encanta viajar.
+🔭 Actualmente me enfoco en el desarrollo Backend, con extra de conocimientos en Frontend<br>👯 Me gusta colaborar en proyectos Open Source<br>🌱 Estoy afianzando mis conocimientos en Kotlin y microservicios<br>⚡ Ademas de la programación, me encanta viajar.
 
 
 ## 🌐 Socials:
